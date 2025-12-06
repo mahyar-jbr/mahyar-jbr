@@ -30,7 +30,7 @@
 **Currently focused on:**
 - 📱 Building scalable mobile & web applications
 - 🗄️ Database optimization & system design
-- 💼 Seeking Summer 2025 Software Engineering internships
+- 💼 Seeking Summer 2026 Software Engineering internships
 
 **Tech expertise:** Full-stack development with React/React Native, Node.js, Spring Boot, and PostgreSQL/MongoDB databases.
 
