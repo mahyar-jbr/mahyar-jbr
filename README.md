@@ -4,7 +4,6 @@
 
 **Full-Stack Developer** • CS @ York University • Building AI-powered sports analytics
 
-Currently developing a goalkeeper performance analytics platform at **Nova Ventures**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logoColor=white)](https://mahyar-portfolio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahyar-jaberi)
