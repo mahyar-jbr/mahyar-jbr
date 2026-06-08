@@ -28,6 +28,6 @@
 
 ---
 
-<sub>🎯 Seeking Summer 2026 SWE internships • Open to full-stack, backend, and data engineering roles</sub>
+<sub>🎯 Seeking Fall 2026 SWE internships • Open to full-stack, backend, and data engineering roles</sub>
 
 </div>
