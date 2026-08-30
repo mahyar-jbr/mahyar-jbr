@@ -53,14 +53,13 @@ Course-management platform for 500+ medical professionals; cut average query res
 
 **Languages:** Python · TypeScript · JavaScript · SQL · Java · C
 
-**AI / Agents:** LangGraph · MCP · Anthropic Claude API · Gemini 2.5 Flash · Vertex AI · Voyage AI
+**AI / Agents:** LangGraph · MCP · Anthropic Claude API · Gemini · Vertex AI · Voyage AI
 
-**Data / Retrieval:** MongoDB Atlas Vector Search · PostgreSQL · MySQL · SQLite
+**Data / Retrieval:** MongoDB Atlas Vector Search · PostgreSQL · MySQL
 
-**Infra / Tooling:** Docker · GitHub Actions · Railway · Vercel · Cloudflare Pages · Supabase · Clerk
+**Infra / Tooling:** Docker · GitHub Actions · Railway · Vercel · Clerk
 
 ---
 
 <div align="center">
-<sub>🎯 Building agentic systems in production • Open to AI engineering and full-stack conversations for 2027 and beyond</sub>
 </div>
